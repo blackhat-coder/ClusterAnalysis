@@ -5,9 +5,6 @@ K-means notebook shows the basic usage of sklearn.clustering.kMeans
 
 CollegeClusterAnalysis Notebook
 ___
-
-<a href='http://www.pieriandata.com'> <img src='../Pierian_Data_Logo.png' /></a>
-___
 # K Means Clustering Project 
 
 For this project we will attempt to use KMeans Clustering to cluster Universities into to two groups, Private and Public.
